@@ -216,7 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-```gitignore id="2g1v0g"
 
 # Project generated files
 welcome.mp3
@@ -227,5 +226,4 @@ image.jpg
 
 # Environment variables
 .env
-```
 
