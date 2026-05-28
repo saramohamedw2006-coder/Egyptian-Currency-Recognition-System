@@ -1,0 +1,5 @@
+opencv-python
+requests
+gTTS
+playsound
+python-dotenv
